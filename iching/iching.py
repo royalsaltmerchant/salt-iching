@@ -1,8 +1,11 @@
 import json
 from random import randrange
+import os
+dirname = os.path.dirname(__file__)
+json_file = os.path.join(dirname, 'data.json')
 
 #get iching data
-with open('./data.json') as d:
+with open(json_file) as d:
   data = json.load(d)
 
 def number(number:int):
@@ -39,7 +42,7 @@ def random():
 
 # number(2)
 # lines([0, 1, 0, 0, 0, 0])
-random()
+# random()
 
 
 
