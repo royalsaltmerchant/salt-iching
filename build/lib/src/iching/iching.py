@@ -2,7 +2,7 @@ import json
 from random import randrange
 
 #get iching data
-with open('../../assets/data.json') as d:
+with open('./data.json') as d:
   data = json.load(d)
 
 def number(number:int):
@@ -35,12 +35,11 @@ def lines(lines):
 def random():
   random_number = randrange(1, 64)
   hexagram = number(random_number)
-  print(hexagram)
   return hexagram
 
 # number(2)
 # lines([0, 1, 0, 0, 0, 0])
-# random()
+random()
 
 
 

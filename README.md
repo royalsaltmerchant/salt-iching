@@ -4,7 +4,7 @@
 
 To start:
 
-`import iching`
+`from iching import iching`
 
 To get a random hexagram:
 

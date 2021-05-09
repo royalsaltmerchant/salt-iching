@@ -2,7 +2,7 @@ import json
 from random import randrange
 
 #get iching data
-with open('./assets/data.json') as d:
+with open('./data.json') as d:
   data = json.load(d)
 
 def number(number:int):
