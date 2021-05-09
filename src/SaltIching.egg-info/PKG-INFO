@@ -1,0 +1,35 @@
+Metadata-Version: 2.1
+Name: SaltIching
+Version: 0.0.1
+Summary: Iching package
+Home-page: https://github.com/royalsaltmerchant/salt-iching
+Author: Julian Ranieri
+Author-email: jumpingafterrain@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/royalsaltmerchant/salt-iching/issues
+Description: # Salt Iching
+        
+        ## Iching will return a dict of information on a hexagram
+        
+        To start:
+        
+        `import iching`
+        
+        To get a random hexagram:
+        
+        `iching.random()`
+        
+        To get a hexagram by number: \
+        Enter a number between 1-64
+        
+        `iching.number(3)`
+        
+        To get a hexagram by lines represented in binary inside an array:
+        
+        `iching.lines([0, 1, 0, 0, 0, 0])`
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
