@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='SaltIching',
-      version='0.3',
+      version='0.4',
       description='Iching for python',
       url='https://github.com/royalsaltmerchant/salt-iching',
       author='Royal Salt Merchant',

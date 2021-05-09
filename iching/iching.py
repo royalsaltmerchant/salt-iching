@@ -20,7 +20,7 @@ def number(number:int):
         for i in hexagram:
           hexagram_by_number_dict[i] = hexagram[i] 
   
-    print(hexagram_by_number_dict)
+    # print(hexagram_by_number_dict)
     return hexagram_by_number_dict
 
 def lines(lines):
@@ -31,7 +31,7 @@ def lines(lines):
       for i in hexagram:
         hexagram_by_lines_dict[i] = hexagram[i] 
   
-  print(hexagram_by_lines_dict)
+  # print(hexagram_by_lines_dict)
   return hexagram_by_lines_dict
 
 
