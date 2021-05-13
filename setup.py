@@ -6,7 +6,7 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(name='SaltIching',
-      version='0.5',
+      version='0.6',
       description='A python package for Iching',
       long_description=long_description,
       long_description_content_type='text/markdown',
@@ -19,7 +19,7 @@ setup(name='SaltIching',
       include_package_data=True,
       entry_points = {
         'console_scripts': [
-              'random=iching.command_line:random',
+              'randomHexagram=iching.iching:random',
               ],
       }),
       
