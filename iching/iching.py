@@ -8,6 +8,24 @@ json_file = os.path.join(dirname, 'data.json')
 with open(json_file) as d:
   data = json.load(d)
 
+def get_trigrams():
+  trigrams_dict = []
+
+  for trigram in data['trigrams']:
+    trigrams_dict.append(trigram)
+  
+  # print(trigrams_dict)
+  return trigrams_dict
+
+def get_hexagrams():
+  hexagrams_dict = []
+
+  for hexagram in data['hexagrams']:
+    hexagrams_dict.append(hexagram)
+  
+  # print(hexagrams_dict)
+  return hexagrams_dict
+
 def number(number:int):
   if number > 64 or number < 1:
     print('number must be between 1-64')
