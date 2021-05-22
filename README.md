@@ -9,6 +9,16 @@ To start:
 
 --
 
+To get all hexagrams:
+
+`iching.get_hexagrams()`
+
+To get all trigrams:
+
+`iching.get_trigrams()`
+
+--
+
 To get a random hexagram:
 
 `iching.random()`
@@ -22,18 +32,16 @@ Enter a number between 1-64
 
 --
 
+To get a trigram by number: \
+Enter a number between 1-8
+
+`iching.trigram_number(6)`
+
+--
+
 To get a hexagram by lines represented in binary inside an array:
 
 (the first "0" here is the bottom line of the hexagram)
 
 `iching.lines([0, 1, 0, 0, 0, 0])`
 
---
-
-To get all hexagrams:
-
-`iching.get_hexagrams()`
-
-To get all trigrams:
-
-`iching.get_trigrams()`

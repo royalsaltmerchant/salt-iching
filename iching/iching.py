@@ -17,6 +17,21 @@ def get_trigrams():
   # print(trigrams_dict)
   return trigrams_dict
 
+def trigram_number(number:int):
+  if number > 8 or number < 1:
+    print('number must be between 1-8')
+
+  else:
+    trigram_by_number_dict = {}
+
+    for trigram in data['trigrams']:
+      if number == trigram['number']:
+        for i in trigram:
+          trigram_by_number_dict[i] = trigram[i] 
+  
+    # print(trigram_by_number_dict)
+    return trigram_by_number_dict
+
 def get_hexagrams():
   hexagrams_dict = []
 
