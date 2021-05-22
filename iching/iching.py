@@ -1,6 +1,8 @@
 import json
 from random import randrange
 import os
+
+#set data path
 dirname = os.path.dirname(__file__)
 json_file = os.path.join(dirname, 'data.json')
 
@@ -8,6 +10,7 @@ json_file = os.path.join(dirname, 'data.json')
 with open(json_file) as d:
   data = json.load(d)
 
+#get all trigrams
 def get_trigrams():
   trigrams_dict = []
 
@@ -17,6 +20,7 @@ def get_trigrams():
   # print(trigrams_dict)
   return trigrams_dict
 
+#get trigram by number
 def trigram_number(number:int):
   if number > 8 or number < 1:
     print('number must be between 1-8')
@@ -32,6 +36,8 @@ def trigram_number(number:int):
     # print(trigram_by_number_dict)
     return trigram_by_number_dict
 
+
+#get all hexagrams
 def get_hexagrams():
   hexagrams_dict = []
 
@@ -41,6 +47,7 @@ def get_hexagrams():
   # print(hexagrams_dict)
   return hexagrams_dict
 
+#get hexagram by number
 def number(number:int):
   if number > 64 or number < 1:
     print('number must be between 1-64')
@@ -56,6 +63,7 @@ def number(number:int):
     # print(hexagram_by_number_dict)
     return hexagram_by_number_dict
 
+#get hexagram by lines
 def lines(lines):
   hexagram_by_lines_dict = {}
 
@@ -67,15 +75,11 @@ def lines(lines):
   # print(hexagram_by_lines_dict)
   return hexagram_by_lines_dict
 
-
+#get random hexagram
 def random():
   random_number = randrange(1, 64)
   hexagram = number(random_number)
   return hexagram
-
-# number(2)
-# lines([0, 1, 0, 0, 0, 0])
-# random()
 
 
 
