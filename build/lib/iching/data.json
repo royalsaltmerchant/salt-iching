@@ -3,20 +3,12 @@
     {
       "number": 1,
       "names": [
-        "Force",
+        "Heaven",
         "The Creative"
       ],
       "chineseName": "乾",
-      "pinyinName": "qián",
+      "pinyinName": "ch'ien",
       "character": "☰",
-      "attribute": "strong",
-      "images": [
-        "heaven"
-      ],
-      "chineseImage": "天",
-      "pinyinImage": "tiān",
-      "familyRelationship": "father",
-      "binary": "111",
       "lines": [
         1,
         1,
@@ -26,20 +18,12 @@
     {
       "number": 2,
       "names": [
-        "Field",
+        "Earth",
         "The Receptive"
       ],
       "chineseName": "坤",
-      "pinyinName": "kūn",
+      "pinyinName": "k'un",
       "character": "☷",
-      "attribute": "devoted, yielding",
-      "images": [
-        "earth"
-      ],
-      "chineseImage": "地",
-      "pinyinImage": "dì",
-      "familyRelationship": "mother",
-      "binary": "000",
       "lines": [
         0,
         0,
@@ -49,20 +33,12 @@
     {
       "number": 3,
       "names": [
-        "Shake",
+        "Thunder",
         "The Arousing"
       ],
       "chineseName": "震",
-      "pinyinName": "zhèn",
+      "pinyinName": "chen",
       "character": "☳",
-      "attribute": "inciting movement",
-      "images": [
-        "thunder"
-      ],
-      "chineseImage": "雷",
-      "pinyinImage": "léi",
-      "familyRelationship": "first son",
-      "binary": "001",
       "lines": [
         1,
         0,
@@ -72,20 +48,12 @@
     {
       "number": 4,
       "names": [
-        "Gorge",
+        "Water",
         "The Abysmal"
       ],
       "chineseName": "坎",
-      "pinyinName": "kǎn",
+      "pinyinName": "k'an",
       "character": "☵",
-      "attribute": "dangerous",
-      "images": [
-        "water"
-      ],
-      "chineseImage": "水",
-      "pinyinImage": "shuǐ",
-      "familyRelationship": "second son",
-      "binary": "010",
       "lines": [
         0,
         1,
@@ -95,20 +63,12 @@
     {
       "number": 5,
       "names": [
-        "Bound",
+        "Mountain",
         "Keeping Still"
       ],
       "chineseName": "艮",
-      "pinyinName": "gèn",
+      "pinyinName": "ken",
       "character": "☶",
-      "attribute": "resting",
-      "images": [
-        "mountain"
-      ],
-      "chineseImage": "山",
-      "pinyinImage": "shān",
-      "familyRelationship": "third son",
-      "binary": "100",
       "lines": [
         0,
         0,
@@ -118,21 +78,12 @@
     {
       "number": 6,
       "names": [
-        "Ground",
+        "Wind",
         "The Gentle"
       ],
       "chineseName": "巽",
-      "pinyinName": "xùn",
+      "pinyinName": "sun",
       "character": "☴",
-      "attribute": "penetrating",
-      "images": [
-        "wind",
-        "wood"
-      ],
-      "chineseImage": "風",
-      "pinyinImage": "fēng",
-      "familyRelationship": "first daughter",
-      "binary": "110",
       "lines": [
         0,
         1,
@@ -142,20 +93,12 @@
     {
       "number": 7,
       "names": [
-        "Radiance",
+        "Fire",
         "The Clinging"
       ],
       "chineseName": "離",
       "pinyinName": "lí",
       "character": "☲",
-      "attribute": "light-giving",
-      "images": [
-        "fire"
-      ],
-      "chineseImage": "火",
-      "pinyinImage": "huǒ",
-      "familyRelationship": "second daughter",
-      "binary": "101",
       "lines": [
         1,
         0,
@@ -165,21 +108,12 @@
     {
       "number": 8,
       "names": [
-        "Open",
+        "Lake",
         "The Joyous"
       ],
       "chineseName": "兌",
-      "pinyinName": "duì",
+      "pinyinName": "tui",
       "character": "☱",
-      "attribute": "joyful",
-      "images": [
-        "swamp",
-        "lake"
-      ],
-      "chineseImage": "澤",
-      "pinyinImage": "zé",
-      "familyRelationship": "third daughter",
-      "binary": "011",
       "lines": [
         1,
         1,
@@ -199,7 +133,6 @@
       "character": "䷀",
       "topTrigram": 1,
       "bottomTrigram": 1,
-      "binary": "111111",
       "lines": [
         1,
         1,
@@ -220,7 +153,6 @@
       "character": "䷁",
       "topTrigram": 2,
       "bottomTrigram": 2,
-      "binary": "000000",
       "lines": [
         0,
         0,
@@ -241,7 +173,6 @@
       "character": "䷂",
       "topTrigram": 4,
       "bottomTrigram": 3,
-      "binary": "010001",
       "lines": [
         1,
         0,
@@ -262,7 +193,6 @@
       "character": "䷃",
       "topTrigram": 5,
       "bottomTrigram": 4,
-      "binary": "100010",
       "lines": [
         0,
         1,
@@ -283,7 +213,6 @@
       "character": "䷄",
       "topTrigram": 4,
       "bottomTrigram": 1,
-      "binary": "010111",
       "lines": [
         1,
         1,
@@ -304,7 +233,6 @@
       "character": "䷅",
       "topTrigram": 1,
       "bottomTrigram": 4,
-      "binary": "111010",
       "lines": [
         0,
         1,
@@ -325,7 +253,6 @@
       "character": "䷆",
       "topTrigram": 2,
       "bottomTrigram": 4,
-      "binary": "000010",
       "lines": [
         0,
         1,
@@ -346,7 +273,6 @@
       "character": "䷇",
       "topTrigram": 4,
       "bottomTrigram": 2,
-      "binary": "010000",
       "lines": [
         0,
         0,
@@ -367,7 +293,6 @@
       "character": "䷈",
       "topTrigram": 6,
       "bottomTrigram": 1,
-      "binary": "110111",
       "lines": [
         1,
         1,
@@ -388,7 +313,6 @@
       "character": "䷉",
       "topTrigram": 1,
       "bottomTrigram": 8,
-      "binary": "111011",
       "lines": [
         1,
         1,
@@ -409,7 +333,6 @@
       "character": "䷊",
       "topTrigram": 2,
       "bottomTrigram": 1,
-      "binary": "000111",
       "lines": [
         1,
         1,
@@ -430,7 +353,6 @@
       "character": "䷋",
       "topTrigram": 1,
       "bottomTrigram": 2,
-      "binary": "111000",
       "lines": [
         0,
         0,
@@ -451,7 +373,6 @@
       "character": "䷌",
       "topTrigram": 1,
       "bottomTrigram": 7,
-      "binary": "111101",
       "lines": [
         1,
         0,
@@ -472,7 +393,6 @@
       "character": "䷍",
       "topTrigram": 7,
       "bottomTrigram": 1,
-      "binary": "101111",
       "lines": [
         1,
         1,
@@ -493,7 +413,6 @@
       "character": "䷎",
       "topTrigram": 2,
       "bottomTrigram": 5,
-      "binary": "000100",
       "lines": [
         0,
         0,
@@ -514,7 +433,6 @@
       "character": "䷏",
       "topTrigram": 3,
       "bottomTrigram": 2,
-      "binary": "001000",
       "lines": [
         0,
         0,
@@ -534,7 +452,6 @@
       "character": "䷐",
       "topTrigram": 8,
       "bottomTrigram": 3,
-      "binary": "011001",
       "lines": [
         1,
         0,
@@ -555,7 +472,6 @@
       "character": "䷑",
       "topTrigram": 5,
       "bottomTrigram": 6,
-      "binary": "100110",
       "lines": [
         0,
         1,
@@ -576,7 +492,6 @@
       "character": "䷒",
       "topTrigram": 2,
       "bottomTrigram": 8,
-      "binary": "000011",
       "lines": [
         1,
         1,
@@ -597,7 +512,6 @@
       "character": "䷓",
       "topTrigram": 6,
       "bottomTrigram": 2,
-      "binary": "110000",
       "lines": [
         0,
         0,
@@ -618,7 +532,6 @@
       "character": "䷔",
       "topTrigram": 7,
       "bottomTrigram": 3,
-      "binary": "101001",
       "lines": [
         1,
         0,
@@ -639,7 +552,6 @@
       "character": "䷕",
       "topTrigram": 5,
       "bottomTrigram": 7,
-      "binary": "100101",
       "lines": [
         1,
         0,
@@ -660,7 +572,6 @@
       "character": "䷖",
       "topTrigram": 5,
       "bottomTrigram": 2,
-      "binary": "100000",
       "lines": [
         0,
         0,
@@ -681,7 +592,6 @@
       "character": "䷗",
       "topTrigram": 2,
       "bottomTrigram": 3,
-      "binary": "000001",
       "lines": [
         1,
         0,
@@ -702,7 +612,6 @@
       "character": "䷘",
       "topTrigram": 1,
       "bottomTrigram": 3,
-      "binary": "111001",
       "lines": [
         1,
         0,
@@ -723,7 +632,6 @@
       "character": "䷙",
       "topTrigram": 5,
       "bottomTrigram": 1,
-      "binary": "100111",
       "lines": [
         1,
         1,
@@ -744,7 +652,6 @@
       "character": "䷚",
       "topTrigram": 5,
       "bottomTrigram": 3,
-      "binary": "100001",
       "lines": [
         1,
         0,
@@ -765,7 +672,6 @@
       "character": "䷛",
       "topTrigram": 8,
       "bottomTrigram": 6,
-      "binary": "011110",
       "lines": [
         0,
         1,
@@ -786,7 +692,6 @@
       "character": "䷜",
       "topTrigram": 4,
       "bottomTrigram": 4,
-      "binary": "010010",
       "lines": [
         0,
         1,
@@ -807,7 +712,6 @@
       "character": "䷝",
       "topTrigram": 7,
       "bottomTrigram": 7,
-      "binary": "101101",
       "lines": [
         1,
         0,
@@ -828,7 +732,6 @@
       "character": "䷞",
       "topTrigram": 8,
       "bottomTrigram": 5,
-      "binary": "011100",
       "lines": [
         0,
         0,
@@ -849,7 +752,6 @@
       "character": "䷟",
       "topTrigram": 3,
       "bottomTrigram": 6,
-      "binary": "001110",
       "lines": [
         0,
         1,
@@ -870,7 +772,6 @@
       "character": "䷠",
       "topTrigram": 1,
       "bottomTrigram": 5,
-      "binary": "111100",
       "lines": [
         0,
         0,
@@ -891,7 +792,6 @@
       "character": "䷡",
       "topTrigram": 3,
       "bottomTrigram": 1,
-      "binary": "001111",
       "lines": [
         1,
         1,
@@ -912,7 +812,6 @@
       "character": "䷢",
       "topTrigram": 7,
       "bottomTrigram": 2,
-      "binary": "101000",
       "lines": [
         0,
         0,
@@ -932,7 +831,6 @@
       "character": "䷣",
       "topTrigram": 2,
       "bottomTrigram": 7,
-      "binary": "000101",
       "lines": [
         1,
         0,
@@ -953,7 +851,6 @@
       "character": "䷤",
       "topTrigram": 6,
       "bottomTrigram": 7,
-      "binary": "110101",
       "lines": [
         1,
         0,
@@ -974,7 +871,6 @@
       "character": "䷥",
       "topTrigram": 7,
       "bottomTrigram": 8,
-      "binary": "101011",
       "lines": [
         1,
         1,
@@ -995,7 +891,6 @@
       "character": "䷦",
       "topTrigram": 4,
       "bottomTrigram": 5,
-      "binary": "010100",
       "lines": [
         0,
         0,
@@ -1016,7 +911,6 @@
       "character": "䷧",
       "topTrigram": 3,
       "bottomTrigram": 4,
-      "binary": "001010",
       "lines": [
         0,
         1,
@@ -1037,7 +931,6 @@
       "character": "䷨",
       "topTrigram": 5,
       "bottomTrigram": 8,
-      "binary": "100011",
       "lines": [
         1,
         1,
@@ -1058,7 +951,6 @@
       "character": "䷩",
       "topTrigram": 6,
       "bottomTrigram": 3,
-      "binary": "110001",
       "lines": [
         1,
         0,
@@ -1079,7 +971,6 @@
       "character": "䷪",
       "topTrigram": 8,
       "bottomTrigram": 1,
-      "binary": "011111",
       "lines": [
         1,
         1,
@@ -1100,7 +991,6 @@
       "character": "䷫",
       "topTrigram": 1,
       "bottomTrigram": 6,
-      "binary": "111110",
       "lines": [
         0,
         1,
@@ -1121,7 +1011,6 @@
       "character": "䷬",
       "topTrigram": 8,
       "bottomTrigram": 2,
-      "binary": "011000",
       "lines": [
         0,
         0,
@@ -1142,7 +1031,6 @@
       "character": "䷭",
       "topTrigram": 2,
       "bottomTrigram": 6,
-      "binary": "000110",
       "lines": [
         0,
         1,
@@ -1163,7 +1051,6 @@
       "character": "䷮",
       "topTrigram": 8,
       "bottomTrigram": 4,
-      "binary": "011010",
       "lines": [
         0,
         1,
@@ -1184,7 +1071,6 @@
       "character": "䷯",
       "topTrigram": 4,
       "bottomTrigram": 6,
-      "binary": "010110",
       "lines": [
         0,
         1,
@@ -1205,7 +1091,6 @@
       "character": "䷰",
       "topTrigram": 8,
       "bottomTrigram": 7,
-      "binary": "011101",
       "lines": [
         1,
         0,
@@ -1226,7 +1111,6 @@
       "character": "䷱",
       "topTrigram": 7,
       "bottomTrigram": 6,
-      "binary": "101110",
       "lines": [
         0,
         1,
@@ -1247,7 +1131,6 @@
       "character": "䷲",
       "topTrigram": 3,
       "bottomTrigram": 3,
-      "binary": "001001",
       "lines": [
         1,
         0,
@@ -1268,7 +1151,6 @@
       "character": "䷳",
       "topTrigram": 5,
       "bottomTrigram": 5,
-      "binary": "100100",
       "lines": [
         0,
         0,
@@ -1289,7 +1171,6 @@
       "character": "䷴",
       "topTrigram": 6,
       "bottomTrigram": 5,
-      "binary": "110100",
       "lines": [
         0,
         0,
@@ -1310,7 +1191,6 @@
       "character": "䷵",
       "topTrigram": 3,
       "bottomTrigram": 8,
-      "binary": "001011",
       "lines": [
         1,
         1,
@@ -1331,7 +1211,6 @@
       "character": "䷶",
       "topTrigram": 3,
       "bottomTrigram": 7,
-      "binary": "001101",
       "lines": [
         1,
         0,
@@ -1352,7 +1231,6 @@
       "character": "䷷",
       "topTrigram": 7,
       "bottomTrigram": 5,
-      "binary": "101100",
       "lines": [
         0,
         0,
@@ -1373,7 +1251,6 @@
       "character": "䷸",
       "topTrigram": 6,
       "bottomTrigram": 6,
-      "binary": "110110",
       "lines": [
         0,
         1,
@@ -1394,7 +1271,6 @@
       "character": "䷹",
       "topTrigram": 8,
       "bottomTrigram": 8,
-      "binary": "011011",
       "lines": [
         1,
         1,
@@ -1415,7 +1291,6 @@
       "character": "䷺",
       "topTrigram": 6,
       "bottomTrigram": 4,
-      "binary": "110010",
       "lines": [
         0,
         1,
@@ -1436,7 +1311,6 @@
       "character": "䷻",
       "topTrigram": 4,
       "bottomTrigram": 8,
-      "binary": "010011",
       "lines": [
         1,
         1,
@@ -1457,7 +1331,6 @@
       "character": "䷼",
       "topTrigram": 6,
       "bottomTrigram": 8,
-      "binary": "110011",
       "lines": [
         1,
         1,
@@ -1478,7 +1351,6 @@
       "character": "䷽",
       "topTrigram": 3,
       "bottomTrigram": 5,
-      "binary": "001100",
       "lines": [
         0,
         0,
@@ -1499,7 +1371,6 @@
       "character": "䷾",
       "topTrigram": 4,
       "bottomTrigram": 7,
-      "binary": "010101",
       "lines": [
         1,
         0,
@@ -1520,7 +1391,6 @@
       "character": "䷿",
       "topTrigram": 7,
       "bottomTrigram": 4,
-      "binary": "101010",
       "lines": [
         0,
         1,
